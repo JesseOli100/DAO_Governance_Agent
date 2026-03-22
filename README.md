@@ -33,7 +33,7 @@ Who actually has power?
 Is governance truly decentralized?
 What happens when whales dominate?
 Why do some DAOs lose community trust?
-🏗️ Project Structure
+# Project Structure
 dao-governance-engine/
 │
 ├── main.py                  # Core engine + simulation runner
@@ -45,7 +45,7 @@ dao-governance-engine/
 
 Clone the repo:
 
-git clone https://github.com/yourusername/dao-governance-engine.git
+git clone https://github.com/JesseOli100/DAO_Governance_Agent.git
 cd dao-governance-engine
 
 Install dependencies:
